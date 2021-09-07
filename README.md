@@ -9,4 +9,4 @@
 2) [Iterators and Generators](https://classroom.udacity.com/courses/ud1110/lessons/bbacebc6-406a-4dc5-83f6-ef7ba3371da6/concepts/bb7e01c7-1d14-43cf-95da-a8eed788ff7e#) is coming soon!  
     - [iterator-generator-implementation](https://github.com/gamzekecibas/python-training/blob/main/iterators-generators/iterator-generator-implementation.ipynb): Local function that run as generator is implemented.
     - [iterator-generator-chunk](https://github.com/gamzekecibas/python-training/blob/main/iterators-generators/iterator-generator-chunk.ipynb): Local function that run as iterator is implementedç
-    - [iterator-generator-generalExp](https://github.com/gamzekecibas/python-training/blob/main/iterators-generators/iterator-generator-generalExp.ipynb): Regular expressions and General Expression '( )' are observed. 
+    - [iterator-generator-generalExp](https://github.com/gamzekecibas/python-training/blob/main/iterators-generators/iterator-generator-generalExp.ipynb): Regular expressions and General Expression '()' are observed. 
