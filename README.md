@@ -10,3 +10,5 @@
     - [iterator-generator-implementation](https://github.com/gamzekecibas/python-training/blob/main/iterators-generators/iterator-generator-implementation.ipynb): Local function that run as generator is implemented.
     - [iterator-generator-chunk](https://github.com/gamzekecibas/python-training/blob/main/iterators-generators/iterator-generator-chunk.ipynb): Local function that run as iterator is implementedç
     - [iterator-generator-generalExp](https://github.com/gamzekecibas/python-training/blob/main/iterators-generators/iterator-generator-generalExp.ipynb): Regular expressions and General Expression '()' are observed. 
+3) [JN-training](https://github.com/gamzekecibas/python-training/tree/main/JN-training): Jupyter Notebook training documentation and applications are uploaded.
+    - [JN-markdown-doc](https://github.com/gamzekecibas/python-training/blob/main/JN-training/JN-markdown-doc.ipynb): Jupyter Notebook **Markdown** application. Its documentation will be pushed as soon!
