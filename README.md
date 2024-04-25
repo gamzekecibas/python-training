@@ -14,4 +14,4 @@
     - [JN-markdown-doc](https://github.com/gamzekecibas/python-training/blob/main/JN-training/JN-markdown-doc.ipynb): Jupyter Notebook **Markdown** application. Its documentation will be pushed as soon!
 4) [statistics-in-python](https://github.com/gamzekecibas/python-training/tree/main/statistics-in-python)
    - [statistics-practice](https://github.com/gamzekecibas/python-training/blob/main/statistics-in-python/statistics-practice.ipynb)
-   - [ab-test](https://github.com/gamzekecibas/python-training/blob/main/statistics-in-python/ab_test.ipynb)
+   - [ab-test](https://github.com/gamzekecibas/python-training/blob/main/statistics-in-python/ab_test.ipynb): A datacamp course practices about A/B test
