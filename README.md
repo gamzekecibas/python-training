@@ -12,5 +12,6 @@
     - [iterator-generator-generalExp](https://github.com/gamzekecibas/python-training/blob/main/iterators-generators/iterator-generator-generalExp.ipynb): Regular expressions and General Expression '()' are observed. 
 3) [JN-training](https://github.com/gamzekecibas/python-training/tree/main/JN-training): Jupyter Notebook training documentation and applications are uploaded.
     - [JN-markdown-doc](https://github.com/gamzekecibas/python-training/blob/main/JN-training/JN-markdown-doc.ipynb): Jupyter Notebook **Markdown** application. Its documentation will be pushed as soon!
-4) [statistics-practice](https://github.com/gamzekecibas/python-training/tree/main/statistics-in-python)
+4) [statistics-in-python](https://github.com/gamzekecibas/python-training/tree/main/statistics-in-python)
    - [statistics-practice](https://github.com/gamzekecibas/python-training/blob/main/statistics-in-python/statistics-practice.ipynb)
+   - [ab-test](https://github.com/gamzekecibas/python-training/blob/main/statistics-in-python/ab-test.ipynb)
